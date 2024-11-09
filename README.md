@@ -11,3 +11,5 @@ npm create vite@latest
 ```npm
 npm install
 ```
+<h3>React - component/jsx/props</h3>
+<a href="https://www.youtube.com/watch?v=HKX__TQ9ff0"><img src="https://github.com/user-attachments/assets/add89907-d5fa-4496-b3b4-ebf06113788b"/></a>
