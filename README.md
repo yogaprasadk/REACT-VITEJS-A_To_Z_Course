@@ -19,3 +19,6 @@ npm install
 
 <h3>React - Props as children and functions </h3>
 <a href="https://youtu.be/BBgSB2bLy60?feature=shared"><img src="https://github.com/user-attachments/assets/5cd620c5-b5ef-4abc-b731-6d37f882eaab"/></a>
+
+<h3>React - State Lifting </h3>
+<a href="https://www.youtube.com/watch?v=Z4hN0WZbASk"><img src="https://github.com/user-attachments/assets/12dd2257-fc3d-4799-9a84-f1d121c9206d" width=900 /></a>
