@@ -22,3 +22,6 @@ npm install
 
 <h3>React - State Lifting </h3>
 <a href="https://www.youtube.com/watch?v=Z4hN0WZbASk"><img src="https://github.com/user-attachments/assets/068a347a-4bb8-4ad6-9428-5efe13810606" /></a>
+
+<h3>React - Conditional Rendering</h3>
+<a href="https://www.youtube.com/watch?v=OjF-OwLOKYE&ab_channel=CodeHelp-byBabbar"><img src="https://github.com/user-attachments/assets/489aad37-309e-4294-8bfd-0298f5a80d10"/></a>
